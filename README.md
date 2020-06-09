@@ -1,5 +1,5 @@
 # node-intro
-first steps into the world of node, following  thiis tutorial: [node tutorial](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
+first steps into the world of node, following  this tutorial: [node tutorial](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
 
 this repo includes
 
