@@ -5,8 +5,8 @@ this repo includes
 
   - some basic built in modules in node:
       - http
-      - os
-      - fs
+      - os (operating system)
+      - fs (file system)
       - path
       - url
       
